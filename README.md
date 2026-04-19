@@ -7,6 +7,10 @@
 
 **Current count:** 48 repos across 12 categories.
 
+📎 **Also see: [`ASSETS.md`](ASSETS.md)** — where these repos get their images, 3D models,
+fonts, audio, and the modern AI tools (Nano Banana, Midjourney v7, Flux, Ideogram 3, Runway
+Gen-4, Meshy, DepthAnything V2, etc.) for sourcing hero material.
+
 ---
 
 ## Purpose
@@ -198,6 +202,25 @@ Lenis / Locomotive      ███████               10/48 repos
 SplitText               █████                 5/48 repos
 shadcn / Radix          ████                  4/48 repos
 ```
+
+---
+
+## Asset sourcing
+
+Every landing page needs raw material: hero images, 3D models, fonts, audio. The companion
+[`ASSETS.md`](ASSETS.md) documents:
+
+- **Part A** — What specific asset sources 9 of the top repos here actually use (Zentry's local-
+  only strategy, Bruno Simon's baked Blender workflow, drei's Poly Haven HDRI CDN, Satus's
+  Sanity-based pipeline, etc.).
+- **Part B** — Non-AI CDNs (Unsplash, Pexels, Poly Haven, Sketchfab, Fontshare, Lucide…).
+- **Part C** — **AI image tools**: **Nano Banana** (Gemini 2.5 Flash Image), Midjourney v7,
+  Flux, Ideogram 3, Firefly, Recraft, Krea.
+- **Part D** — AI video: Runway Gen-4, Kling 2, Pika 2, Luma, Veo 3.
+- **Part E** — AI 3D: Meshy, Tripo, Rodin, CSM.
+- **Part F** — Depth-map generators (for the `akella/fake3d` technique).
+- **Part G** — Recommended asset stack **per landing-page category**.
+- **Part H** — License & commercial-safety decision tree.
 
 ---
 
